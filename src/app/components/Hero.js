@@ -69,7 +69,7 @@ const Hero = () => {
 
       {/* right */}
       <div className="relative bg-white flex items-center">
-        <div className="p-25 container-pad py-12 lg:py-0">
+        <div className="p-15 lg:p-25 container-pad py-12 lg:py-0">
           <h1 className="font-[var(--font-spartan)] text-2xl sm:text-3xl font-extrabold tracking-tight text-black">
             {s.title}
           </h1>
